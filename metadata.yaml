@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40882'
     url: http://www.gutenberg.org/2009/agents/40882
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40890#Diary-of-an-Enlisted-Man
 gutenberg_issued: '2012-09-28'
 gutenberg_type: Text
 identifiers:
