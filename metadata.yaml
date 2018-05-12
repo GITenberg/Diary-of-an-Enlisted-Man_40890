@@ -1,0 +1,30 @@
+_repo: Diary-of-an-Enlisted-Man_40890
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Van Alstyne, Lawrence
+    alias: Alstyne, Lawrence Van
+    birthdate: 1839
+    deathdate: 1923
+    gutenberg_agent_id: '40882'
+    url: http://www.gutenberg.org/2009/agents/40882
+description: ''
+gutenberg_issued: '2012-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40890'
+  lccn: '10026176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Colored Infantry Regiment, 90th (1863-1865)'
+- !lcc 'E456'
+- !lcsh 'United States. Army. New York Infantry Regiment, 128th (1862-1865)'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+title: Diary of an Enlisted Man
+url: http://www.gutenberg.org/ebooks/40890
